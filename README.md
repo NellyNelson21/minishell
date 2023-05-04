@@ -1,5 +1,5 @@
 # minishell
 
-minishell without executor part 🥲
+implementation of minishell
 
-lexer and parser realised with singly linked list (it is beautiful tho)
+lexer and parser realised with singly linked list
